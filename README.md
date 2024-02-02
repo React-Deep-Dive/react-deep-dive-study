@@ -6,6 +6,7 @@
 
 ![image](https://github.com/React-Deep-Dive/reat-deep-dive-study/assets/116826162/8062542e-3c57-48ac-a1c4-ab68b1157462)
 
+<br/>
 
 ## 목표
 1. 완독
