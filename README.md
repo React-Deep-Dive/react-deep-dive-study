@@ -3,15 +3,36 @@
 
 ## 목차
 
-1. [스터디 소개](#)
-2. [스터디원](#스터디원)
-3. [스터디 도서](#3)
-4. [목표](#목표)
-4. [컨벤션 및 PR](#컨벤션-및-PR)
-5. 
+1. [스터디원](#스터디원)
+2. [스터디 도서](#3스터디-도서)
+3. [목표](#목표)
+4. [그라운드 룰](#그라운드-룰)
+5. [컨벤션 및 PR](#컨벤션-및-PR)
 
 
 ## 스터디원
+
+<table>
+  <tr>
+    <td align="center" width="150px">
+      <a href="https://github.com/chhw130" target="_blank">
+        <img src="https://avatars.githubusercontent.com/u/116826162?v=4" alt="민초 프로필" />
+      </a>
+    </td>
+<!--     <td align="center" width="92px">
+      <a href="" target="_blank">
+        <img src="" alt=" 프로필" />
+      </a>
+    </td> -->
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/chhw130" target="_blank">
+        Mincho
+      </a>
+    </td>
+  </tr>
+</table>
 
 ## 스터디 도서
 
