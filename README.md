@@ -1,6 +1,8 @@
 # reat-deep-dive-study
 리액트 딥 다이브 스터디입니다! 🔥
 
+<br/>
+
 ## 목차
 
 1. [스터디원](#스터디원)
@@ -17,22 +19,48 @@
   <tr>
     <td align="center" width="150px">
       <a href="https://github.com/chhw130" target="_blank">
-        <img src="https://avatars.githubusercontent.com/u/116826162?v=4" alt="민초 프로필" />
+        <img src="https://avatars.githubusercontent.com/u/116826162?v=4" alt="Mincho 프로필" />
       </a>
     </td>
-<!--     <td align="center" width="92px">
-      <a href="" target="_blank">
-        <img src="" alt=" 프로필" />
+    <td align="center" width="150px">
+      <a href="https://github.com/benzyminzy" target="_blank">
+        <img src="https://avatars.githubusercontent.com/u/97730865?v=4" alt="Benzy 프로필" />
       </a>
-    </td> -->
+    </td>
+     <td align="center" width="150px">
+      <a href="https://github.com/selene-cho" target="_blank">
+        <img src="https://avatars.githubusercontent.com/u/120701125?v=4" alt="Luna 프로필" />
+      </a>
+    </td>
+     <td align="center" width="150px">
+      <a href="https://github.com/yesaroun" target="_blank">
+        <img src="https://avatars.githubusercontent.com/u/88129543?v=4" alt="땡땡 프로필" />
+      </a>
+    </td>
   </tr>
   <tr>
     <td align="center">
       <a href="https://github.com/chhw130" target="_blank">
-        Mincho
+        민초
+      </a>
+    </td>
+     <td align="center">
+      <a href="https://github.com/benzyminzy" target="_blank">
+        Benzy
+      </a>
+    </td>
+     <td align="center">
+      <a href="https://github.com/selene-cho" target="_blank">
+        루나
+      </a>
+    </td>
+     <td align="center">
+      <a href="https://github.com/yesaroun" target="_blank">
+        땡땡
       </a>
     </td>
   </tr>
+  
 </table>
 
 ## 스터디 도서
@@ -69,3 +97,20 @@
 ex) `[민초] 1장-2장 리액트 딥 다이브 정리 (1주차)`
 2. PR reviewer는 최소 1개 이상의 comment를 달아주세요.
 3. PR에 대한 merge는 다음 스터디 시간 이전까지 해주면 좋을 것 같습니다!
+
+<br/>
+
+## 진행 현황
+
+|주차|진행분량|기타|
+|--------|-----|------|
+|1주차|[JSX(2.1장) ~ useRef(3.1.5장)] 116p-218p|
+|2주차|[useContext(3.1.6장) ~ Next.js(4장)] 219p-335p|
+|3주차|[리액트와 상태 관리 라이브러리(5장) ~ 리액트 개발 도구로 디버깅하기(6장)] 336p-432p|
+|4주차|[크롬 개발자 도구를 활용한 애플리케이션 분석(7장) ~ 좋은 리액트 코드 작성을 위한 환경 구축하기(8장)] 433p-528p|
+|5주차|[모던 리액트 개발 도구로 개발 및 배포 환경 구축하기(9장)] 529p-656p|
+|6주차|[리액트 17과 18의 변경 사항 살펴보기(10장)] 657p-714p|19버전과 같이보기👀|
+|7주차|[Next.js 13과 리액트 18(11장) ~ 모든 웹 개발자가 관심을 가져야 할 핵심 웹 지표(12장)] 715p-812p|
+|8주차|[웹페이지의 성능을 측정하는 다양한 방법(13장) ~ 마치며(15장)] 813p-916p|
+
+
