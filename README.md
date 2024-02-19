@@ -28,11 +28,6 @@
       </a>
     </td>
      <td align="center" width="150px">
-      <a href="https://github.com/selene-cho" target="_blank">
-        <img src="https://avatars.githubusercontent.com/u/120701125?v=4" alt="Luna 프로필" />
-      </a>
-    </td>
-     <td align="center" width="150px">
       <a href="https://github.com/yesaroun" target="_blank">
         <img src="https://avatars.githubusercontent.com/u/88129543?v=4" alt="땡땡 프로필" />
       </a>
@@ -47,11 +42,6 @@
      <td align="center">
       <a href="https://github.com/benzyminzy" target="_blank">
         Benzy
-      </a>
-    </td>
-     <td align="center">
-      <a href="https://github.com/selene-cho" target="_blank">
-        루나
       </a>
     </td>
      <td align="center">
@@ -117,14 +107,14 @@
   <tr>
     <td rowspan="1">1주차</td>
     <td>[JSX(2.1장) ~ useRef(3.1.5장)] 116p-218p</td>
-    <td>Benzy -> Luna -> 땡땡 -> Benzy</td>
+    <td>Benzy -> 땡땡 -> Benzy</td>
 	  <td></td>
   </tr>
   </tr>
   <tr>
     <td rowspan="1">2주차</td>
     <td>[useContext(3.1.6장) ~ Next.js(4장)] 219p-335p</td>
-    <td></td>  
+    <td>Mincho -> Benzy -> Mincho</td>  
     <td></td>
   </tr>
   <tr>
