@@ -101,57 +101,48 @@
   <tr>
 	  <th>주차</th>
     <th>진행분량</th>
-	  <th>리뷰</th>
     <th>기타</th>
   </tr>
   <tr>
     <td rowspan="1">1주차</td>
     <td>[JSX(2.1장) ~ useRef(3.1.5장)] 116p-218p</td>
-    <td>Benzy -> 땡땡 -> Benzy</td>
 	  <td></td>
   </tr>
   </tr>
   <tr>
     <td rowspan="1">2주차</td>
     <td>[useContext(3.1.6장) ~ Next.js(4장)] 219p-335p</td>
-    <td>Mincho -> Benzy -> Mincho</td>  
     <td></td>
   </tr>
   <tr>
     <td rowspan="1">3주차</td>
     <td>[리액트와 상태 관리 라이브러리(5장) ~ 리액트 개발 도구로 디버깅하기(6장)] 336p-432p</td>
-    <td></td> 
     <td></td>
   </tr>
   <tr>
     <td rowspan="1">4주차</td>
     <td>[크롬 개발자 도구를 활용한 애플리케이션 분석(7장) ~ 좋은 리액트 코드 작성을 위한 환경 구축하기(8장)] 433p-528p</td>
-    <td></td>  
     <td></td>
   </tr>
   </tr>
   <tr>
     <td rowspan="1">5주차</td>
     <td>[모던 리액트 개발 도구로 개발 및 배포 환경 구축하기(9장)] 529p-656p</td>
-    <td></td>  
     <td></td>
   </tr>
   <tr>
     <td rowspan="1">6주차</td>
     <td>[리액트 17과 18의 변경 사항 살펴보기(10장)] 657p-714p</td>
-    <td></td>	  
     <td>19버전과 같이보기👀</td>
   </tr>
   <tr>
     <td rowspan="1">7주차</td>
     <td>[Next.js 13과 리액트 18(11장) ~ 모든 웹 개발자가 관심을 가져야 할 핵심 웹 지표(12장)] 715p-812p</td>
-    <td></td>	  
     <td></td>
   </tr>
   <tr>
     <td rowspan="1">8주차</td>
     <td>[웹페이지의 성능을 측정하는 다양한 방법(13장) ~ 마치며(15장)] 813p-916p</td>
-    <td></td>
     <td></td>
   </tr>
   
